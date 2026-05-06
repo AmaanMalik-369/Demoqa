@@ -34,7 +34,6 @@ public void ClickPracForm() {
 
 public void ClickRadioBtn()
 {
-	
 	WebElement RadioBtn = driver.findElement(Other_radio_btn);
 	// Check if it is already selected
 	if(RadioBtn.isSelected())

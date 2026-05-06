@@ -18,6 +18,6 @@ public class FormFillingTest extends BaseClass {
 	hp.ClickPracForm();
 	driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
     hp.ClickRadioBtn();
-  
+    hp.SelectCheckBox();
 }
 }

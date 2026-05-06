@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-05-06T17:30:02 IST" name="Default suite" finished-at="2026-05-06T17:30:06 IST" duration-ms="3731">
+  <suite started-at="2026-05-06T17:47:07 IST" name="Default suite" finished-at="2026-05-06T17:47:11 IST" duration-ms="4082">
     <groups>
     </groups>
-    <test started-at="2026-05-06T17:30:02 IST" name="Default test" finished-at="2026-05-06T17:30:06 IST" duration-ms="3731">
+    <test started-at="2026-05-06T17:47:07 IST" name="Default test" finished-at="2026-05-06T17:47:11 IST" duration-ms="4082">
       <class name="tests.FormFillingTest">
-        <test-method is-config="true" signature="Setup()[pri:0, instance:tests.FormFillingTest@4c583ecf]" started-at="2026-05-06T17:30:02 IST" name="Setup" finished-at="2026-05-06T17:30:05 IST" duration-ms="3263" status="PASS">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:tests.FormFillingTest@4c583ecf]" started-at="2026-05-06T17:47:07 IST" name="Setup" finished-at="2026-05-06T17:47:10 IST" duration-ms="3277" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method signature="RegForm()[pri:0, instance:tests.FormFillingTest@4c583ecf]" started-at="2026-05-06T17:30:05 IST" name="RegForm" finished-at="2026-05-06T17:30:06 IST" duration-ms="426" status="PASS">
+        <test-method signature="RegForm()[pri:0, instance:tests.FormFillingTest@4c583ecf]" started-at="2026-05-06T17:47:10 IST" name="RegForm" finished-at="2026-05-06T17:47:11 IST" duration-ms="766" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- RegForm -->
